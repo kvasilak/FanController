@@ -28,7 +28,7 @@
 
 static const byte FanPWMOutPin          = 10;    // PWM out to drive the fan
 static const byte AlarmInPin            = 2;    //3 khz alarm signal from the gauge
-static const byte ECMInPin              = 4;    //level change from the ECM ( Fan On )
+static const byte ECMInPin              = 3;    //level change from the ECM ( Fan On )
 static const byte LowPWNPin             = 0;
 static const byte HiPWMPin              = 1;
 static const byte HysteresisPin         = 2;
